@@ -1,0 +1,8 @@
+.spline-sc {
+    position: absolute; /* or fixed, depending on scroll behavior */
+    top: 0;
+    right: 0;
+    width: 50vw; /* adjust as needed */
+    height: 100vh; /* full height */
+  }
+  
